@@ -7,3 +7,7 @@
      select `num`,`empno`,`ename`,`birth`,`idnum`,`deptno`,`job`,`entime`,`wtime`,`form`,`resource`,`tel`,`email` from `emp`
     </select>
 </mapper>
+
+
+
+
